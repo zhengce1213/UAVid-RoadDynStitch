@@ -1,4 +1,3 @@
-# UAVid-RoadDynStitch
 # UAVidRoadDynStitch
 
 UAVidRoadDynStitch is a dynamic UAV road image-pair subset for studying vehicle- and shadow-aware road image stitching, seam selection, and image source selection.
